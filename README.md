@@ -2,7 +2,7 @@
 
 :computer: I'm Back-end && front-end Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil🇧🇷.
 
 📧both_Eritons@outlook.com
 

@@ -4,9 +4,9 @@
 
 :house_with_garden: I’m from Brazil🇧🇷.
 
-📧both_Eritons@outlook.com
+📧 botheritons2005@gmail.com
 
-Discord: Eriton#3775
+Discord: eritonjr#0000
 
 <hr>
 

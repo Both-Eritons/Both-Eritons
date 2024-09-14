@@ -4,8 +4,6 @@
 
 :house_with_garden: I’m from Brazil🇧🇷.
 
-📧 botheritons2005@gmail.com
-
 Discord: eritonjr#0000
 
 <hr>

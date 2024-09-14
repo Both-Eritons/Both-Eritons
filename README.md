@@ -10,7 +10,7 @@ Discord: eritonjr#0000
 
 <hr>
 
-| <a href="https://github.com/both-eritons/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=both-eritons&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Eriton" /></a> | <a href="https://github.com/both-eritons/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=both-eritons&layout=compact&theme=buefy&hide_border=true&langs_count=10&hide=pawn,php" /></a> |
+| <a href="https://github.com/both-eritons/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=both-eritons&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Eriton" /></a> | <a href="https://github.com/both-eritons/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=both-eritons&layout=compact&theme=buefy&hide_border=true&langs_count=10&hide=pawn,cplusplus,sourcepawn" /></a> |
 | ------------- | ------------- |
 
 
